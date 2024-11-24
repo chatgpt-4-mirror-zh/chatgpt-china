@@ -5,7 +5,7 @@
 
 国内可以直接用的**ChatGPT中文版**！**无需翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview**<br />
 我们为大家整理了一些国内可用的 **ChatGPT中文版**，方便用户无需翻墙即可使用<br />
-同时提供了**ChatGPT镜像网站**和**ChatGPT使用教程**，助您快速上手，在国内使用上**ChatGPT中文版镜像网站**，**无限制使用GPT-4o、o1**。
+同时提供了**ChatGPT镜像网站**和**ChatGPT使用教程**，助您快速上手，在国内使用上**ChatGPT中文版镜像网站**，**无限制使用GPT-4o、o1-preview**。
 
 ## 什么是ChatGPT中文版？
 
