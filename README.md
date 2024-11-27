@@ -1,7 +1,7 @@
 # ChatGPT官方中文版：国内访问指南（支持GPT-4，无限使用4o和o1，无需翻墙）【11月持续更新】 
 
 > 更新时间：2024/11/27 <br />
-> 作者：chatgpt-mirror-zh 
+> 作者：chatgpt-mirror-zh
 
 国内可以直接用的**ChatGPT中文版**！**无需翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview**<br />
 我们为大家整理了一些国内可用的 **ChatGPT中文版**，方便用户无需翻墙即可使用<br />
